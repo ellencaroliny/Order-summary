@@ -27,5 +27,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Author
 
 - Frontend Mentor - [@ellencaroliny](https://www.frontendmentor.io/profile/ellencaroliny)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
