@@ -14,7 +14,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/ellencaroliny/Order-summary
 - Live Site URL: 
 
 ### Built with
